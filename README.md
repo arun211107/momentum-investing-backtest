@@ -98,7 +98,7 @@ To avoid look-ahead bias, portfolio decisions are made using only information av
 
 The chart below compares the growth of £1 invested in the momentum strategy against £1 invested in the S&P 500 benchmark.
 
-charts/momentum_vs_spy.png
+<img width="1200" height="600" alt="Momentum strat vs SPY 2" src="https://github.com/user-attachments/assets/2a5e6cc4-d72a-4853-a884-f4b453541642" />
 
 ---
 
