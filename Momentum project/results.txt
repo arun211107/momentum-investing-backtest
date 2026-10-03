@@ -1,0 +1,16 @@
+===== RESULTS =====
+
+Strategy Total Return: 410.93%
+SPY Total Return: 194.08%
+
+Strategy Annual Return: 22.88%
+SPY Annual Return: 14.60%
+
+Strategy Volatility: 18.82%
+SPY Volatility: 16.17%
+
+Strategy Sharpe Ratio: 1.22
+SPY Sharpe Ratio: 0.90
+
+Strategy Max Drawdown: -20.34%
+SPY Max Drawdown: -23.93%
